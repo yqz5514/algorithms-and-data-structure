@@ -1,2 +1,2 @@
 # algorithms-and-data-structure
-self-learning materials
+algorithms-and-data-structure-practice
