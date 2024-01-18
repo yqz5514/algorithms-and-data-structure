@@ -36,7 +36,7 @@ res = []
 for i in range(len(freq) - 1, 0, -1):
     #print('range:',i)
     for n in freq[i]:
-        #print('freq[i]:',freq[i])
+        #print('n:', n, 'freq[i]:',freq[i])
         res.append(n)
         #print('res:',res)
         if len(res) == k:
